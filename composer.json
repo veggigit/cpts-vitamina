@@ -1,0 +1,19 @@
+{
+	"name": "veggigit/cpts-vitamina",
+	"description": "WP Plugin custom posts type para vitaminaproducciones.cl",
+	"keywords": [
+		"wordpress",
+		"plugin"
+	],
+	"homepage": "https://github.com/veggigit/cpts-vitamina",
+	"authors": [
+		{
+			"name": "@veggigit",
+			"homepage": "https://github.com/veggigit"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">=5.6"
+	}
+}
